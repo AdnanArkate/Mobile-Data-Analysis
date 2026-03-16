@@ -1,7 +1,5 @@
-pandas==3.11
+pandas
 matplotlib
 seaborn
 streamlit
 openpyxl
-xlrd
-altair==4.2.0
