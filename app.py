@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-st.title(" Mobile Phone Data Analysis")
+st.title("📊 Mobile Phone Data Analysis")
 
 df = pd.read_excel("Mobile_Phone_Data.xlsx")
 st.subheader("Dataset Preview")
