@@ -11,10 +11,4 @@
 - ratings_pie.png - pie chart
 - price_vs_battery.png - scatter plot
 
-# How to run
-pip install -r requirements.txt
-python pro.py
-streamlit run app.py
 
-# Live demo
-https://mobile-data-analysis-9rb9gxszbuualymjrr7wl5.streamlit.app/
